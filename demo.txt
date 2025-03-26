@@ -1,4 +1,11 @@
 i am using this file 
 i am doing a change
 
+// this is the content taken from the maain branch 
 now its time to do change in the main branch 
+// this is the content taken from the new branch 
+i done this change in the new branch
+
+now i merge this both the branch in the main branch --
+
+
